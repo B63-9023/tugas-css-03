@@ -1,0 +1,18 @@
+#p1 {
+  background-color: #ad692d;
+}
+
+.p2 {
+  background-color: #1629f7;
+}
+
+.p3 {
+  border: groove;
+  font-family: monospace;
+  font-size: 125%;
+}
+
+.p4 {
+  background-color: #606066;
+  font-weight: bold;
+}
